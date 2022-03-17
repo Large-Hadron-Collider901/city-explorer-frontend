@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Katibeh&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Suez+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bowlby+One+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Wendy+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Coda+Caption:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+#header {
+    filter: drop-shadow(5px 12px 4px rgb(72, 15, 159));
+    position: absolute; 
+    left: 128px;
+    top: 47px;
+    font-size: 80px;
+    font-weight: 900;
+    opacity: 100%;
+    font-family: 'Audiowide', cursive;
+    
+    background-image: url(https://i.ibb.co/GFygYLM/ernest-brillo-Qi8-Cvons-Yn-M-unsplash.jpg);
+           
+            background-size: 50%;
+            -webkit-background-clip: text;
+          
+            -webkit-text-fill-color: transparent;
+           
+        
+
+}
+
+.header {
+  filter: drop-shadow(-12px 8px 45px rgb(56, 232, 255));
+  position: absolute; 
+  left: 345px;
+  top: 10px;
+  border-radius: 30px;
+  background-image: url(./assets/cityscape.jpg);
+  background-repeat: repeat;
+  background-size: cover;
+  width: 900px;
+  height: 900px;
+  opacity: 100%;
+  -webkit-text-stroke: 2px rgb(55, 246, 99);
+  border:#0ad8c7 solid 7px;
+ }
+
+#heading2 {
+  color: rgb(248, 153, 169);
+    margin-left: -10px;
+    margin-top: 120px;
+    font-size: 60px;
+    font-family: 'Gemunu Libre', sans-serif;
+    }
+
+  #p {
+     color: rgb(255, 124, 146);
+      margin-top: 35px;
+      margin-left: 20px;
+      font-size: 45px;
+      font-family: 'Gemunu Libre', sans-serif;
+      
+  }  
+  
+
+  #alert {
+      box-shadow: 20px 15px 15px 15px 15px rgb(225, 191, 238);  
+      filter: drop-shadow(-34px 25px 40px black);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+      font-size: 10px;
+      font-family: 'Press Start 2P', cursive;
+      text-align: center;
+      margin-right: 30px;
+      margin-left: 30px;
+      margin-top: 30px;
+  }
+
+  #body-text {
+    font-family: 'Press Start 2P', cursive;
+    text-shadow: 0 0 5px rgb(31, 82, 105), 0 0 10px rgb(3, 58, 37), 0 0 15px #205961, 0 0 20px #1012b8, 0 0 25px #024d4d, 0 0 30px #052753d2, 0 0 35px #0e4953;
+  }
+
+  #error-button {
+    position: absolute;
+    left: -10px;
+    width: 340px;
+    height: 60px;
+   color: #4b0170;
+    margin-top: 10px;
+    margin-left: 320px;
+    background-color: white;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+  }
+
+  h2 {
+    font-family: 'Gemunu Libre', sans-serif;
+  }
+ 
+ .location-title {
+margin-top: -10px;
+width: 350px;
+padding-bottom: -50px;
+ }
+ 
+
+  #location {
+    position: absolute;
+    left: 720px;
+    top: 99px;
+    margin-top: 110px;
+    padding-top: 25px;
+    margin-left: -10px;
+    padding-left: 25px;
+    padding-right: 15px;
+    background-color: rgba(113, 175, 154, 0.397);
+    padding-bottom: 50px;
+    border-radius: 30px;
+  }
+
+#weather {
+  position: absolute;
+  left: -287px;
+  top: 225px;
+}
+  #search-bar {
+    position: absolute;
+    left: 452px;
+    top: 372px;
+    width: 530px;
+    height: 56px;
+    box-shadow: 1px 1px 1px rgb(31, 82, 105), 0 0 1px rgb(3, 58, 37), 0 0 1px #205961, 0 0 20px #1012b8, 0 0 2px #024d4d, 0 0 30px #052753d2, 0 0 35px #0e4953;
+
+  }
+
+
+
+  #search-button {
+    position: absolute; 
+    left: 991px;
+    top: 372px;
+    width: 110px;
+    height: 56px;
+    box-shadow: 1px 1px 1px rgb(31, 82, 105), 0 0 1px rgb(3, 58, 37), 0 0 1px #205961, 0 0 20px #1012b8, 0 0 2px #024d4d, 0 0 30px #052753d2, 0 0 35px #0e4953;
+
+  }
+
+  label {
+    position: absolute;
+    top: 256px;
+    left: 462px;
+    margin-bottom: 5px;
+    font-size: 60px;
+    
+    font-family: 'Permanent Marker', cursive;
+    color:rgb(100, 228, 74);
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+    text-shadow: 0 0 5px rgb(31, 82, 105), 0 0 10px rgb(3, 58, 37), 0 0 15px #205961, 0 0 20px #1012b8, 0 0 25px #024d4d, 0 0 30px #052753d2, 0 0 35px #0e4953;
+  }
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+ }
+
+.child {
+  position: relative;
+  left: 477px;
+  bottom: 10px;
+  margin: 5px 5px 5px 5px;
+ border-radius: 20%px;
+}
+
+#forecast-title {
+  background-color: white;
+  -webkit-text-stroke: 0.5px rgb(255, 0, 0);
+  z-index: 1000;
+  border: double blue 10px;
+  width: 400px;
+  font-family: 'Yeseva One', cursive;
+  position: relative;
+  padding-top: 20px;
+  top: -10px;
+  left: 490px;
+  height: 200px;
+  text-align: center;
+}
+
+button.new-search {
+  box-shadow: 1px 1px 1px rgb(16, 41, 53), 0 0 1px rgb(3, 58, 37), 0 0 1px #205961, 0 0 2px #1012b8, 0 0 2px #024d4d, 0 0 3px #052753d2, 0 0 5px #0e4953;
+  position: absolute;
+  text-shadow: 0 0 5px rgb(31, 82, 105), 0 0 10px rgb(3, 58, 37), 0 0 15px #205961, 0 0 20px #1012b8, 0 0 25px #024d4d, 0 0 30px #052753d2, 0 0 35px #0e4953;
+  left: -490px;
+  top: -49px;
+  width: 200px;
+  height: 45px;
+  opacity: 100%;
+  border: solid 5px rgb(255, 255, 255);
+  -webkit-text-stroke: 0.5px rgb(255, 255, 255);
+  font-family: 'Fredoka One', cursive;
+  font-weight: heavier;
+  font-size: 23px;
+  background: linear-gradient(54.7deg,  #960ead 12%,#0ad8c7 100%);
+
+}
